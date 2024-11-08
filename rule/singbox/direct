@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "lineageos.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".lineageos.org",
+        ".dynv6.com",
+        ".fuliba2024.net",
+        ".bitwarden.com",
+        ".mozilla.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "duolingo"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "129.226.3.47/32",
+        "162.62.163.63/32"
+      ]
+    }
+  ]
+}
